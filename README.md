@@ -1,6 +1,6 @@
 Mobile AR application designed with:
 
-Unity 2021
+Unity 2021, 
 Vuforia Engine
 
 Once the marker is tracked the plot will be displayed and available for manipulation. 
